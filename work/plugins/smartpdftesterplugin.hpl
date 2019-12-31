@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: smartpdftesterplugin
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: smartpdftesterplugin
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+Libraries: /Users/giridhar/Repositories/smartpdftesterplugin/src/main/
+ resources,/Users/giridhar/Repositories/smartpdftesterplugin/target/cl
+ asses
+Resource-Path: /Users/giridhar/Repositories/smartpdftesterplugin/src/m
+ ain/webapp
+
